@@ -1,8 +1,10 @@
-# TypeScript-Express Project Seed
+# Share With Me
 
-In order to get up and running issue:
+A simple server to obtain files that people want to share with you.
+
+Issue:
 
 ```bash
-npm install
-npm run watch
+npm run build
+npm start
 ```
